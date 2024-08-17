@@ -1,4 +1,4 @@
-# myapp
+# IAMRICHAPP
 
 A new Flutter project.
 
